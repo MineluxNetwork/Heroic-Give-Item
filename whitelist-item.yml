@@ -160,7 +160,6 @@ whitelist-item:
   NETHER_SPROUTS: Nether Sprouts
   WEEPING_VINES: Weeping Vines
   TWISTING_VINES: Twisting Vines
-  SUGAR_CANE: Sugar Cane
   KELP: Kelp
   MOSS_CARPET: Moss Carpet
   PINK_PETALS: Pink Petals
@@ -168,7 +167,6 @@ whitelist-item:
   HANGING_ROOTS: Hanging Roots
   BIG_DRIPLEAF: Big Dripleaf
   SMALL_DRIPLEAF: Small Dripleaf
-  BAMBOO: Bamboo
   OAK_SLAB: Oak Slab
   SPRUCE_SLAB: Spruce Slab
   BIRCH_SLAB: Birch Slab
@@ -224,7 +222,6 @@ whitelist-item:
   SNOW: Snow
   ICE: Ice
   SNOW_BLOCK: Snow Block
-  CACTUS: Cactus
   CLAY: Clay
   JUKEBOX: Jukebox
   OAK_FENCE: Oak Fence
@@ -238,9 +235,6 @@ whitelist-item:
   BAMBOO_FENCE: Bamboo Fence
   CRIMSON_FENCE: Crimson Fence
   WARPED_FENCE: Warped Fence
-  PUMPKIN: Pumpkin
-  CARVED_PUMPKIN: Carved Pumpkin
-  JACK_O_LANTERN: Jack O Lantern
   NETHERRACK: Netherrack
   SOUL_SAND: Soul Sand
   SOUL_SOIL: Soul Soil
@@ -274,7 +268,6 @@ whitelist-item:
   IRON_BARS: Iron Bars
   CHAIN: Chain
   GLASS_PANE: Glass Pane
-  MELON: Melon
   VINE: Vine
   GLOW_LICHEN: Glow Lichen
   BRICK_STAIRS: Brick Stairs
@@ -360,7 +353,6 @@ whitelist-item:
   BLACK_TERRACOTTA: Black Terracotta
   BARRIER: Barrier
   LIGHT: Light
-  HAY_BLOCK: Hay Block
   WHITE_CARPET: White Carpet
   ORANGE_CARPET: Orange Carpet
   MAGENTA_CARPET: Magenta Carpet
@@ -432,7 +424,6 @@ whitelist-item:
   REPEATING_COMMAND_BLOCK: Repeating Command Block
   CHAIN_COMMAND_BLOCK: Chain Command Block
   MAGMA_BLOCK: Magma Block
-  NETHER_WART_BLOCK: Nether Wart Block
   WARPED_WART_BLOCK: Warped Wart Block
   RED_NETHER_BRICKS: Red Nether Bricks
   BONE_BLOCK: Bone Block
@@ -735,8 +726,6 @@ whitelist-item:
   STRING: String
   FEATHER: Feather
   GUNPOWDER: Gunpowder
-  WHEAT_SEEDS: Wheat Seeds
-  WHEAT: Wheat
   BREAD: Bread
   LEATHER_HELMET: Leather Helmet
   LEATHER_CHESTPLATE: Leather Chestplate
@@ -865,10 +854,7 @@ whitelist-item:
   COOKIE: Cookie
   FILLED_MAP: Filled Map
   SHEARS: Shears
-  MELON_SLICE: Melon Slice
   DRIED_KELP: Dried Kelp
-  PUMPKIN_SEEDS: Pumpkin Seeds
-  MELON_SEEDS: Melon Seeds
   BEEF: Beef
   COOKED_BEEF: Cooked Beef
   CHICKEN: Chicken
@@ -877,7 +863,6 @@ whitelist-item:
   ENDER_PEARL: Ender Pearl
   BLAZE_ROD: Blaze Rod
   GHAST_TEAR: Ghast Tear
-  NETHER_WART: Nether Wart
   POTION: Potion
   GLASS_BOTTLE: Glass Bottle
   SPIDER_EYE: Spider Eye
@@ -887,7 +872,6 @@ whitelist-item:
   BREWING_STAND: Brewing Stand
   CAULDRON: Cauldron
   ENDER_EYE: Ender Eye
-  GLISTERING_MELON_SLICE: Glistering Melon Slice
   EXPERIENCE_BOTTLE: Experience Bottle
   FIRE_CHARGE: Fire Charge
   WRITABLE_BOOK: Writable Book
@@ -895,10 +879,7 @@ whitelist-item:
   ITEM_FRAME: Item Frame
   GLOW_ITEM_FRAME: Glow Item Frame
   FLOWER_POT: Flower Pot
-  CARROT: Carrot
-  POTATO: Potato
   BAKED_POTATO: Baked Potato
-  POISONOUS_POTATO: Poisonous Potato
   MAP: Map
   GOLDEN_CARROT: Golden Carrot
   SKELETON_SKULL: Skeleton Skull
@@ -952,8 +933,6 @@ whitelist-item:
   POPPED_CHORUS_FRUIT: Popped Chorus Fruit
   TORCHFLOWER_SEEDS: Torchflower Seeds
   PITCHER_POD: Pitcher Pod
-  BEETROOT: Beetroot
-  BEETROOT_SEEDS: Beetroot Seeds
   BEETROOT_SOUP: Beetroot Soup
   DRAGON_BREATH: Dragon Breath
   SPLASH_POTION: Splash Potion
@@ -1008,8 +987,6 @@ whitelist-item:
   BELL: Bell
   LANTERN: Lantern
   SOUL_LANTERN: Soul Lantern
-  SWEET_BERRIES: Sweet Berries
-  GLOW_BERRIES: Glow Berries
   CAMPFIRE: Campfire
   SOUL_CAMPFIRE: Soul Campfire
   SHROOMLIGHT: Shroomlight
@@ -1130,10 +1107,6 @@ whitelist-item:
   REDSTONE_WALL_TORCH: Redstone Wall Torch
   SOUL_WALL_TORCH: Soul Wall Torch
   NETHER_PORTAL: Nether Portal
-  ATTACHED_PUMPKIN_STEM: Attached Pumpkin Stem
-  ATTACHED_MELON_STEM: Attached Melon Stem
-  PUMPKIN_STEM: Pumpkin Stem
-  MELON_STEM: Melon Stem
   WATER_CAULDRON: Water Cauldron
   LAVA_CAULDRON: Lava Cauldron
   POWDER_SNOW_CAULDRON: Powder Snow Cauldron
@@ -1167,8 +1140,6 @@ whitelist-item:
   POTTED_BROWN_MUSHROOM: Potted Brown Mushroom
   POTTED_DEAD_BUSH: Potted Dead Bush
   POTTED_CACTUS: Potted Cactus
-  CARROTS: Carrots
-  POTATOES: Potatoes
   SKELETON_WALL_SKULL: Skeleton Wall Skull
   WITHER_SKELETON_WALL_SKULL: Wither Skeleton Wall Skull
   ZOMBIE_WALL_HEAD: Zombie Wall Head
@@ -1194,7 +1165,6 @@ whitelist-item:
   BLACK_WALL_BANNER: Black Wall Banner
   TORCHFLOWER_CROP: Torchflower Crop
   PITCHER_CROP: Pitcher Crop
-  BEETROOTS: Beetroots
   END_GATEWAY: End Gateway
   FROSTED_ICE: Frosted Ice
   KELP_PLANT: Kelp Plant
