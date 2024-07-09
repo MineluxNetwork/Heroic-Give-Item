@@ -50,36 +50,6 @@ whitelist-item:
   GRAVEL: Gravel
   AMETHYST_BLOCK: Amethyst Block
   BUDDING_AMETHYST: Budding Amethyst
-  EXPOSED_COPPER: Exposed Copper
-  WEATHERED_COPPER: Weathered Copper
-  OXIDIZED_COPPER: Oxidized Copper
-  EXPOSED_CUT_COPPER: Exposed Cut Copper
-  WEATHERED_CUT_COPPER: Weathered Cut Copper
-  OXIDIZED_CUT_COPPER: Oxidized Cut Copper
-  CUT_COPPER_STAIRS: Cut Copper Stairs
-  EXPOSED_CUT_COPPER_STAIRS: Exposed Cut Copper Stairs
-  WEATHERED_CUT_COPPER_STAIRS: Weathered Cut Copper Stairs
-  OXIDIZED_CUT_COPPER_STAIRS: Oxidized Cut Copper Stairs
-  CUT_COPPER_SLAB: Cut Copper Slab
-  EXPOSED_CUT_COPPER_SLAB: Exposed Cut Copper Slab
-  WEATHERED_CUT_COPPER_SLAB: Weathered Cut Copper Slab
-  OXIDIZED_CUT_COPPER_SLAB: Oxidized Cut Copper Slab
-  WAXED_COPPER_BLOCK: Waxed Copper Block
-  WAXED_EXPOSED_COPPER: Waxed Exposed Copper
-  WAXED_WEATHERED_COPPER: Waxed Weathered Copper
-  WAXED_OXIDIZED_COPPER: Waxed Oxidized Copper
-  WAXED_CUT_COPPER: Waxed Cut Copper
-  WAXED_EXPOSED_CUT_COPPER: Waxed Exposed Cut Copper
-  WAXED_WEATHERED_CUT_COPPER: Waxed Weathered Cut Copper
-  WAXED_OXIDIZED_CUT_COPPER: Waxed Oxidized Cut Copper
-  WAXED_CUT_COPPER_STAIRS: Waxed Cut Copper Stairs
-  WAXED_EXPOSED_CUT_COPPER_STAIRS: Waxed Exposed Cut Copper Stairs
-  WAXED_WEATHERED_CUT_COPPER_STAIRS: Waxed Weathered Cut Copper Stairs
-  WAXED_OXIDIZED_CUT_COPPER_STAIRS: Waxed Oxidized Cut Copper Stairs
-  WAXED_CUT_COPPER_SLAB: Waxed Cut Copper Slab
-  WAXED_EXPOSED_CUT_COPPER_SLAB: Waxed Exposed Cut Copper Slab
-  WAXED_WEATHERED_CUT_COPPER_SLAB: Waxed Weathered Cut Copper Slab
-  WAXED_OXIDIZED_CUT_COPPER_SLAB: Waxed Oxidized Cut Copper Slab
   OAK_LOG: Oak Log
   SPRUCE_LOG: Spruce Log
   BIRCH_LOG: Birch Log
